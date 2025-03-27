@@ -8,8 +8,9 @@ Debemos de ponerle nombre al curso, completando todas las casillas obligatorias.
 ![Preferences](3.png)
 Añadimos el tamaño de la contraseña en la configuración del curso para que se necesite ponerla al intentar entrar en el curso.
 ![Preferences](4.png)
-Vamos a crear 2 cursos, uno con el nombre A y otro con el nombre B selecionando el boton de color azul Crear Curso .
+Vamos a crear 2 cursos, uno con el nombre A y otro con el nombre B selecionando el boton de color azul Crear Curso.
 ![Cursos](4.1.png)
+Dentro de el cambiaremos el nombre de los temas a nuestra izquierda
 Una vez creados los 2, vamos a añadir en 2 categorias archivos PDF seleccionando 
 #### + Añadir una actividad o un recuraso
 ![Curso](13.png)
