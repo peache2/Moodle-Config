@@ -11,6 +11,7 @@ Añadimos el tamaño de la contraseña en la configuración del curso para que s
 Vamos a crear 2 cursos, uno con el nombre A y otro con el nombre B selecionando el boton de color azul Crear Curso.
 ![Cursos](4.1.png)
 Dentro de el cambiaremos el nombre de los temas a nuestra izquierda
+![Temas](3.1.png)
 Una vez creados los 2, vamos a añadir en 2 categorias archivos PDF seleccionando 
 #### + Añadir una actividad o un recuraso
 ![Curso](13.png)
