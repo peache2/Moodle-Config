@@ -25,4 +25,4 @@ Vamos a Descargar datos de tabla como Valores separados por comas (.csv)
 Una vez lo descargemos vamos a ir a la carpeta en la cual se ha DESCARGADO el archivo y lo vamos a modificar en el bloc de notas que usemos.
 Vamos a copiar lo que sale en la imagen de abajo dentro de las notas
 ![Curso](18.png)
-###### Entraremos en la administración del sitio --> Cuentas --> Subir usuarios
+#### Entraremos en la administración del sitio --> Cuentas --> Subir usuarios
