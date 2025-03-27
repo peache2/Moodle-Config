@@ -30,4 +30,24 @@ Vamos a importar el archivo (.csv)
 ![Curso](19.png)
 Si lo hemos hecho bien nos saldran todos los usuarios de manera correcta talcual se ve en las imagenes
 ![Curso](20.png)
+Vamos a borrar 2 usuarios.
+![Curso](21.png)
+Entraremos dentro del curso B para poder modificar el metodo de autentificación para poder registrarnos
+![Curso](26.png)
+![Curso](27.png)
+Vamos a irnos a los metodos de matriculación
+#### Participantes --> Métodos de matriculación
+y nos aseguraremos de que este activada la matriculación manual *(tenemos el ojo sin tachar)*
+## Nos dirijiremos al curso B y matricularemos a los usuarios añadiendo a Bob como profesor
+![Curso](26.png)
+#### Participantes --> Usuarios matriculados --> *Matricular usuarios*
+![Curso](27.png)
+Hacemos que bob sea uno de los profesores del curso
+![Curso](28.png)
+Volvemos a poner el Método de matriculación manual como en el paso anterior
+#### Participantes --> Métodos de matriculación
+
+
+
+
 
