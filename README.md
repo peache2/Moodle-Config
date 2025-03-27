@@ -32,6 +32,8 @@ Si lo hemos hecho bien nos saldran todos los usuarios de manera correcta talcual
 ![Curso](20.png)
 Vamos a borrar 2 usuarios.
 ![Curso](21.png)
+Primero nos vamos a dirigir a el curso A y vamos a configurar que absolutamente nadie se pueda inscribir al curso
+![Curso](21.png)
 Entraremos dentro del curso B para poder modificar el metodo de autentificación para poder registrarnos
 ![Curso](26.png)
 ![Curso](27.png)
@@ -39,7 +41,8 @@ Vamos a irnos a los metodos de matriculación
 #### Participantes --> Métodos de matriculación
 y nos aseguraremos de que este activada la matriculación manual *(tenemos el ojo sin tachar)*
 ## Nos dirijiremos al curso B y matricularemos a los usuarios añadiendo a Bob como profesor
-![Curso](26.png)
+![Curso](25.png)
+![Curso](29.png)
 #### Participantes --> Usuarios matriculados --> *Matricular usuarios*
 ![Curso](27.png)
 Hacemos que bob sea uno de los profesores del curso y añadimos a los 8 usuarios que tenemos
@@ -47,9 +50,7 @@ Hacemos que bob sea uno de los profesores del curso y añadimos a los 8 usuarios
 ![Curso](28.png)
 ![Curso](32.png)
 ![Curso](33.png)
-Volvemos a poner el Método de matriculación manual como en el paso anterior
-#### Participantes --> Métodos de matriculación
-![Curso](29.png)
+
 
 
 
