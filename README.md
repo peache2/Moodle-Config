@@ -26,3 +26,8 @@ Una vez lo descargemos vamos a ir a la carpeta en la cual se ha DESCARGADO el ar
 Vamos a copiar lo que sale en la imagen de abajo dentro de las notas
 ![Curso](18.png)
 #### Entraremos en la administración del sitio --> Cuentas --> Subir usuarios
+Vamos a importar el archivo (.csv)
+![Curso](19.png)
+Si lo hemos hecho bien nos saldran todos los usuarios de manera correcta talcual se ve en las imagenes
+![Curso](20.png)
+
