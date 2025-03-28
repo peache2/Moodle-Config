@@ -56,8 +56,8 @@ y nos aseguraremos de que este activada la matriculación manual *(tenemos el oj
 
 Hacemos que bob sea profesor de los cursos A y B y añadimos a los 8 usuarios que tenemos
 ![Curso](31.png)
-![Curso](28.png)
 ![Curso](32.png)
+![Curso](28.png)
 ![Curso](33.png)
 Vamos a dirinos a nuestros cursos 
 ![Cursos](4.1.png)
