@@ -69,6 +69,7 @@ Y lo configuraremos de esta manera siguiendo los pasos
 ![Curso](31.png)
 ![Curso](34.png)
 ![Curso](36.png)
+Seleccionamos tarea
 ![Curso](35.png)
 ![Curso](37.png)
 
