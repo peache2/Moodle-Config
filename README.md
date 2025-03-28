@@ -54,7 +54,7 @@ y nos aseguraremos de que este activada la matriculación manual *(tenemos el oj
 #### Participantes --> Usuarios matriculados --> *Matricular usuarios*
 ![Curso](27.png)
 
-Hacemos que bob sea uno de los profesores del curso y añadimos a los 8 usuarios que tenemos
+Hacemos que bob sea profesor de los cursos A y B y añadimos a los 8 usuarios que tenemos
 ![Curso](31.png)
 ![Curso](28.png)
 ![Curso](32.png)
