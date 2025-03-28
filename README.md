@@ -68,8 +68,8 @@ y entramos al curso A para hacer una tarea con PDF, nos vamos a dirigir a una te
 Y lo configuraremos de esta manera siguiendo los pasos
 ![Curso](31.png)
 ![Curso](34.png)
-![Curso](35.png)
 ![Curso](36.png)
+![Curso](35.png)
 ![Curso](37.png)
 
 
