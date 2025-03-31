@@ -10,8 +10,11 @@ Añadimos el tamaño de la contraseña en la configuración del curso para que s
 ![Preferences](4.png)
 Vamos a crear 2 cursos, uno con el nombre A y otro con el nombre B selecionando el boton de color azul ***Crear Curso*** .
 ![Cursos](4.1.png)
-Dentro del curso **A** cambiaremos el nombre de los temas a nuestra izquierda
+
+Dentro del curso **A** cambiaremos el nombre de 3 temas
+Dentro del curso **B** cambiaremos el nombre a 5 temas
 ![Temas](3.1.png)
+![Cursos](5.1.png)
 
 Y de esta manera podemos tener nuestros propios temas para el curso.
 #### + Añadir una actividad o un recurso
