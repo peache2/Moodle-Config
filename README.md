@@ -1,5 +1,5 @@
 # Moodle-Config
-### 1- *Configuración de usuario y curso*
+### 1- *Configuración del curso y nuestro usuario*
 Modificamos los datos que saldran en nuestro perfil de moodle.
 ![User](1.png)
 Debemos de ponerle nombre al curso, completando todas las casillas obligatorias.
@@ -8,12 +8,14 @@ Debemos de ponerle nombre al curso, completando todas las casillas obligatorias.
 ![Preferences](3.png)
 Añadimos el tamaño de la contraseña en la configuración del curso para que se necesite ponerla al intentar entrar en el curso.
 ![Preferences](4.png)
-Vamos a crear 2 cursos, uno con el nombre A y otro con el nombre B selecionando el boton de color azul Crear Curso.
+Vamos a crear 2 cursos, uno con el nombre A y otro con el nombre B selecionando el boton de color azul ***Crear Curso*** .
 ![Cursos](4.1.png)
-Dentro de el cambiaremos el nombre de los temas a nuestra izquierda
+Dentro del curso **A** cambiaremos el nombre de los temas a nuestra izquierda
 ![Temas](3.1.png)
-Una vez creados los 2, vamos a añadir en 2 categorias archivos PDF seleccionando 
+
+Y de esta manera podemos tener nuestros propios temas para el curso.
 #### + Añadir una actividad o un recurso
+Vamos a añadir 2 PDF en forma de tarea para cada tema al cual le hemos cambiado el nombre.
 ![Curso](13.png)
 ![Curso](14.png)
 ![Curso](15.png)
@@ -69,7 +71,7 @@ Y lo configuraremos de esta manera siguiendo los pasos
 ![Curso](31.png)
 ![Curso](34.png)
 ![Curso](36.png)
-Seleccionamos tarea
+Seleccionamos una tarea para añadirla a nuestro tema
 ![Curso](35.png)
 ![Curso](37.png)
 
