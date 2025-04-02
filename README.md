@@ -90,6 +90,7 @@ Seleccionaremos **Area de texto y medios**
 ![Curso](-(3).png)
 Le pondremos el nombre de NF1 y NF2
 ![Curso](-(4).png)
+
 ![Curso](-(5).png)
 
 
