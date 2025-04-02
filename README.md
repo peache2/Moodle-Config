@@ -86,12 +86,28 @@ Entramos como alumno para poder asegurarnos de que la vemos correctamente y que 
 Vamos a crear 2 Unidades Formativas en las cuales añadiremos 2 NF
 #### + Añadir una actividad o un recurso
 Seleccionaremos **Area de texto y medios**
-![Curso](-(2).png)
-![Curso](-(3).png)
-Le pondremos el nombre de NF1 y NF2
-![Curso](-(4).png)
 
-![Curso](-(5).png)
+![Curso](02.png)
+![Curso](04.png)
+
+Le pondremos el nombre de NF1 y NF2
+
+![Curso](05.png)
+![Curso](01.png)
+
+### Seleccionaremos Actividad --> Tareas
+Y la crearemos
+
+![Curso](07.png)
+![Curso](08.png)
+
+Una vez este creada nos meteremos como alumno y entregaremos la tarea
+
+### Usuarios --> Student Eight --> Entrar como
+
+![Curso](10.png)
+
+
 
 
 
