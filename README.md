@@ -86,11 +86,11 @@ Entramos como alumno para poder asegurarnos de que la vemos correctamente y que 
 Vamos a crear 2 Unidades Formativas en las cuales añadiremos 2 NF
 #### + Añadir una actividad o un recurso
 Seleccionaremos **Area de texto y medios**
-![Curso]((2).png)
-![Curso]((3).png)
+![Curso](-(2).png)
+![Curso](-(3).png)
 Le pondremos el nombre de NF1 y NF2
-![Curso]((4).png)
-![Curso]((5).png)
+![Curso](-(4).png)
+![Curso](-(5).png)
 
 
 
