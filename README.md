@@ -82,7 +82,8 @@ Entramos como alumno para poder asegurarnos de que la vemos correctamente y que 
 
 
 
-# ADICIONAL
+
+# Tareas y UF
 Vamos a crear 2 Unidades Formativas en las cuales añadiremos 2 NF
 #### + Añadir una actividad o un recurso
 Seleccionaremos **Area de texto y medios**
@@ -106,6 +107,32 @@ Una vez este creada nos meteremos como alumno y entregaremos la tarea
 ### Usuarios --> Student Eight --> Entrar como
 
 ![Curso](10.png)
+![Curso](11.png)
+
+Una vez entregada vamos a volver a dirigirnos a nuestro perfil de profesor cerrando sesion y entrando al perfil para pode evaluar la tarea que nuestro alumno ha enviado.
+
+### Boton azul (Calificar)
+
+![Curso](12.png)
+
+Ahora si nos dirigimos al apartado de calificaciones podemos ver que ese alumno tendra un **100%** en el curso ya que solo tenemos como nota la actividad.
+
+![Curso](13.png)
+
+# Insignias
+El primer paso sera dirigirnos a 
+
+#### Administración del sitio --> Insignias (en la barra de busqueda)
+![Curso](14.png)
+
+Gestion de insignias
+![Curso](15.png)
+
+Vamos a seleccionar el boton azul de **Añadir una nueva insignia**
+![Curso](16.png)
+
+Cuando se nosa
+
 
 
 
