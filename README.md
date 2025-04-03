@@ -6,7 +6,7 @@ Debemos de ponerle nombre al curso, completando todas las casillas obligatorias.
 ![User](2.png)
 ### 2- *Configuraremos el idioma y la configuración visual de Moodle*
 ![Preferences](3.png)
-Añadimos el tamaño de la contraseña a 4 caracteres en la configuración del curso para que se necesite ponerla al intentar entrar en el curso.
+Añadimos el tamaño de la contraseña a **4 caracteres** en la configuración del curso para que se necesite ponerla al intentar entrar en el curso.
 ![Preferences](4.png)
 
 Vamos a crear 2 cursos, uno con el nombre A y otro con el nombre B selecionando el boton de color azul ***Crear Curso*** .
@@ -109,6 +109,8 @@ Y la crearemos
 
 Una vez este creada nos meteremos como alumno y entregaremos la tarea
 
+![Curso](300.png)
+
 ### Usuarios --> Student Eight --> Entrar como
 
 ![Curso](10.png)
@@ -170,6 +172,47 @@ En el panel de la derecha seleccionaremos a **bob bob**
 Y ya podremos ver que nuestro profesor **bob** tiene la insignia asignada
 
 ![Curso](28.png)
+
+## Cuestionarios y examenes
+
+Vamos a volver al curso **A**
+
+![Curso](28.png)
+
+Y dentro del NF que queramos vamos a hacer
+
+#### + Añadir una actividad o un recurso
+
+![Curso](201.png)
+
+#### Actividades --> Cuestionario
+
+Seleccionaremos el nombre que queramos
+
+![Curso](202.png)
+![Curso](203.png)
+
+#### Agregar pregunta
+
+Vamos a seleccionar la puntuación que queramos en nuestro **EXAMEN** *(en este caso he puesto 10)*
+
+![Curso](204.png)
+
+Vamos a seleccionar ✅**Opciones multiples**
+
+![Curso](205.png)
+
+*Podemos agregar todas las preguntas que deseemos*
+
+Agregamos el titulo de nuestra pregunta y el enunciado que les saldra a nuestros alumnos
+
+![Curso](207.png)
+
+Y pondremos todas las opciones que queramos en **Eleccion x** y en **Calificación** pondremos el % que queremos que cueste la respuesta al responderla
+
+![Curso](208.png)
+
+
 
 
 
