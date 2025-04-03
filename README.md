@@ -39,18 +39,24 @@ Vamos a importar el archivo (.csv)
 ![Curso](105.png)
 
 Si lo hemos hecho bien nos saldran todos los usuarios de manera correcta talcual se ve en las imagenes
+
 ![Curso](106.png)
 
 Vamos a borrar 2 usuarios.
+
 ![Curso](108.png)
 
 ![Curso](107.png)
-Primero nos vamos a dirigir a el curso A y vamos a configurar que absolutamente nadie se pueda inscribir al curso
+
+Primero nos vamos a dirigir a el curso **A** y **B** vamos a configurar que absolutamente nadie se pueda inscribir al curso
+Vamos a irnos a los metodos de matriculación
+
+#### Participantes --> Métodos de matriculación
 
 ![Curso](109.png)
-Entraremos dentro del curso B para poder modificar el metodo de autentificación para poder registrarnos
 
 ![Curso](110.png)
+
 Vamos a irnos a los metodos de matriculación
 
 #### Participantes --> Métodos de matriculación
@@ -74,10 +80,7 @@ Entramos al curso **A** para hacer una tarea con **PDF**, nos vamos a dirigir a 
 Y lo configuraremos de esta manera siguiendo los pasos
 
 ![Curso](35.png)
-![Curso](120.png)
-Seleccionamos una tarea para añadirla a nuestro tema.
 
-![Curso](35.png)
 ![Curso](37.png)
 
 Entramos como alumno para poder asegurarnos de que la vemos correctamente y que nuestros alumnos pueden hacerla. 
