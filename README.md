@@ -55,8 +55,11 @@ Vamos a irnos a los metodos de matriculación
 
 #### Participantes --> Métodos de matriculación
 Nos vamos a asegurar de que este activada la matriculación manual **(tenemos el ojo sin tachar)**
-#### Nos dirijiremos al curso B y matricularemos a los usuarios añadiendo los cuales hicimos en el bloc de notas. Tambien añadiremos a Bob como profesor.
 ![Curso](111.png)
+
+#### Nos dirijiremos al curso B y matricularemos a los usuarios añadiendo los cuales hicimos en el bloc de notas. Tambien añadiremos a Bob como profesor.
+
+
 ![Curso](112.png)
 #### Participantes --> Usuarios matriculados --> *Matricular usuarios*
 ![Curso](113.png)
