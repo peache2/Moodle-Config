@@ -83,23 +83,19 @@ Y lo configuraremos de esta manera siguiendo los pasos
 
 ![Curso](37.png)
 
-Entramos como alumno para poder asegurarnos de que la vemos correctamente y que nuestros alumnos pueden hacerla. 
-
-
-
-
 # Tareas y UF
 Vamos a crear 2 Unidades Formativas en las cuales añadiremos 2 NF
 #### + Añadir una actividad o un recurso
 Seleccionaremos **Area de texto y medios**
 
 ![Curso](02.png)
-![Curso](04.png)
 
 Le pondremos el nombre de NF1 y NF2
 
-![Curso](05.png)
+![Curso](04.png)
+
 ![Curso](01.png)
+![Curso](05.png)
 
 ### Seleccionaremos Actividad --> Tareas
 Y la crearemos
@@ -109,14 +105,14 @@ Y la crearemos
 
 Una vez este creada nos meteremos como alumno y entregaremos la tarea
 
-![Curso](300.png)
-
 ### Usuarios --> Student Eight --> Entrar como
+
+![Curso](300.png)
 
 ![Curso](10.png)
 ![Curso](11.png)
 
-Una vez entregada vamos a volver a dirigirnos a nuestro perfil de profesor cerrando sesion y entrando al perfil para pode evaluar la tarea que nuestro alumno ha enviado.
+Una vez entregada vamos a volver a dirigirnos a nuestro perfil de profesor cerrando sesion y entrando al perfil para poder evaluar la tarea que nuestro alumno ha enviado.
 
 ### Boton azul (Calificar)
 
