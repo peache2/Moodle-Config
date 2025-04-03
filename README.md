@@ -131,7 +131,43 @@ Gestion de insignias
 Vamos a seleccionar el boton azul de **Añadir una nueva insignia**
 ![Curso](16.png)
 
-Cuando se nosa
+Cuando se nos despliegue el menu vamos a poner el **Nombre** la **Descripción** y la **Imagen**
+
+![Curso](17.png)
+
+Vamos a poner que el criterio en **Concesión manual por rol**
+
+![Curso](22.png)
+
+#### Marcamos la casilla de *Profesor*
+
+![Curso](23.png)
+
+Cuando ya terminemos de hacerla se la asignaremos a una persona (en este caso debe de ser a un profesor porque anteriormente marcamos que lo sea)
+
+![Curso](24.png)
+
+Vamos a **Habilitar acceso**
+
+![Curso](25.png)
+
+#### Habilitar
+
+Cuando nos salga este menu deberemos de **Otorgar insignia** a una persona
+
+![Curso](26.png)
+
+En el panel de la derecha seleccionaremos a **bob bob** 
+
+#### Otorgar insignia
+![Curso](27.png)
+
+Y ya podremos ver que nuestro profesor **bob** tiene la insignia asignada
+
+![Curso](28.png)
+
+
+
 
 
 
