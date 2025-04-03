@@ -173,7 +173,7 @@ Y ya podremos ver que nuestro profesor **bob** tiene la insignia asignada
 
 Vamos a volver al curso **A**
 
-![Curso](28.png)
+![Curso](4.1.png)
 
 Y dentro del NF que queramos vamos a hacer
 
@@ -209,8 +209,7 @@ Y pondremos todas las opciones que queramos en **Eleccion x** y en **Calificaci√
 ![Curso](208.png)
 
 ## Exportar copia de seguridad y cursos
-
-
+*En proceso*
 
 
 
@@ -218,7 +217,7 @@ Y pondremos todas las opciones que queramos en **Eleccion x** y en **Calificaci√
 
 ## Seguridad
 
-Vamosa a banear una IP, para que tenga prohibido entrar en nuestro curso, esto sirve para garantizar una buena seguridad a nuestro curso, de esta manera los banearemos de forma manual.
+Vamosa a banear una IP, para que tenga prohibido entrar a las clases, esto sirve para garantizar una buena seguridad a nuestro curso, de esta manera los banearemos de forma manual.
 
 Nos dirijimos a 
 
