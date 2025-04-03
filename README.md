@@ -144,7 +144,7 @@ Vamos a poner que el criterio en **Concesión manual por rol**
 
 ![Curso](22.png)
 
-#### Marcamos la casilla de *Profesor*
+#### Marcamos la casilla de ✅*Profesor*
 
 ![Curso](23.png)
 
