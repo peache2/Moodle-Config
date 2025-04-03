@@ -208,9 +208,29 @@ Y pondremos todas las opciones que queramos en **Eleccion x** y en **CalificaciÃ
 
 ![Curso](208.png)
 
+## Exportar copia de seguridad y cursos
 
 
 
+
+
+
+
+## Seguridad
+
+Vamosa a banear una IP, para que tenga prohibido entrar en nuestro curso, esto sirve para garantizar una buena seguridad a nuestro curso, de esta manera los banearemos de forma manual.
+
+Nos dirijimos a 
+
+#### AdministraciÃ³n del sitio --> Seguridad --> Bloqueador de IP
+
+![Curso](500.png)
+
+Y en **Lista de IPs bloquedas** ponemos la ip la cual no va a poder acceder a nuestros cursos.
+
+![Curso](501.png)
+
+**Guardar cambios**
 
 
 
