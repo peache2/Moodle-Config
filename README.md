@@ -66,17 +66,14 @@ Nos vamos a asegurar de que este activada la matriculación manual **(tenemos el
 
 Hacemos que bob sea profesor de los cursos **A** y **B** y añadimos a los 8 usuarios que tenemos
 ![Curso](114.png)
-![Curso](115.png)
-![Curso](116.png)
-![Curso](117.png)
-Vamos a dirigirnos al panel de cursos 
+![Curso](119.png)
 ![Cursos](118.png)
 
 Entramos al curso **A** para hacer una tarea con **PDF**, nos vamos a dirigir a una tema y seleccionaremos:
 #### + Añadir una actividad o un recurso
 Y lo configuraremos de esta manera siguiendo los pasos
 
-![Curso](119.png)
+![Curso](35.png)
 ![Curso](120.png)
 Seleccionamos una tarea para añadirla a nuestro tema.
 
